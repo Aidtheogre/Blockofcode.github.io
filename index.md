@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# This page is more of a miscellaneous bunch  
 
-You can use the [editor on GitHub](https://github.com/Aidtheogre/Blockofcode.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <!-- Block of Code -->
+    print("hello world")
 
-### Markdown
+ * Bullet Point
+  * Smaller bullet point 1
+  * Smaller bullet point 2
+  * Smaller bullet point 3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  #### Shortcuts
+   * For home click [here][home].
+   * For about me click [here][about me]
+   * For My favorite activities click [here][favorite activities]
+   * For my personal heroes click [here][personal heroes]
+   * For my favorite websites click [here][favorite websites]
 
-# Header 1
-## Header 2
-### Header 3
+  [home]: https://aidtheogre.github.io
+  [about me]: https://aidtheogre.github.io/aboutme.github.io/  
+  [favorite activities]: https://aidtheogre.github.io/favoriteactivities.github.io/
+  [personal heroes]:https://aidtheogre.github.io/heroes.github.io/
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aidtheogre/Blockofcode.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
