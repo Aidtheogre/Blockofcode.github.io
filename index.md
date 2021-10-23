@@ -15,7 +15,7 @@
    * For about me click [here][about me]
    * For My favorite activities click [here][favorite activities]
    * For my personal heroes click [here][personal heroes]
-   * For my favorite websites click [here][favorite websites]
+
 
   [home]: https://aidtheogre.github.io
   [about me]: https://aidtheogre.github.io/aboutme.github.io/  
